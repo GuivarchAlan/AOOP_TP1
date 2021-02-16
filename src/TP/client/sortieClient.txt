@@ -1,0 +1,53 @@
+Debut des traitements: 
+	Traitement de la commande compilation ...
+		Resultat: true :  classes compilées avec succés 
+	Traitement de la commande chargement ...
+		Resultat: true :  classes chargées avec succés 
+	Traitement de la commande creation ...
+		Resultat: true : 8inf853 = Cours(Titre: null <>)
+	Traitement de la commande ecriture ...
+		Resultat: true : Architecture des applications
+	Traitement de la commande lecture ...
+		Resultat: true : Architecture des applications
+	Traitement de la commande creation ...
+		Resultat: true : 8inf843 = Cours(Titre: null <>)
+	Traitement de la commande ecriture ...
+		Resultat: true : Systemes repartis
+	Traitement de la commande chargement ...
+		Resultat: true :  classes chargées avec succés 
+	Traitement de la commande creation ...
+		Resultat: true : mathilde = null[NaN]
+	Traitement de la commande ecriture ...
+		Resultat: true : Mathilde Boivin
+	Traitement de la commande creation ...
+		Resultat: true : raymond = null[NaN]
+	Traitement de la commande ecriture ...
+		Resultat: true : Raymond Sauve
+	Traitement de la commande fonction ...
+		Resultat: false : java.lang.reflect.InvocationTargetException
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : 3.7
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : 3.85
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : null
+	Traitement de la commande fonction ...
+		Resultat: true : 3.85
+	Traitement de la commande fonction ...
+		Resultat: true : Cours(Titre: Architecture des applications <Raymond Sauve[2.85] = 3.0 , Mathilde Boivin[3.85] = 3.7 >)
+Fin des traitements
+
